@@ -1,11 +1,11 @@
-# React Typescript with Tailwind (Tailwind 3 & React 18)
+# React Typescript with Tailwind (React 18.2.0, Typescript 4.8.2 and Tailwind 3.1.8)
 
 ## Features
 
 The project is to build an exam score sheet web app with basic data handling.
 
-- [Tailwind 3](https://tailwindcss.com/)
 - [React 18](https://reactjs.org)
+- [Tailwind 3](https://tailwindcss.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 
 ## Installing and Running
