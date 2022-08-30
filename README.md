@@ -2,7 +2,7 @@
 
 ## Features
 
-The project is to build an exam score sheet web application with basic data handling.
+The project is to build an exam score sheet web application with basic data handling and responsive designing.
 
 - [React 18](https://reactjs.org)
 - [Tailwind 3](https://tailwindcss.com/)
