@@ -23,7 +23,7 @@ export const sidebarLinkActive = {
 const studentList = [
   { id: 1, name: "Alan", score: 70, class: "A" },
   { id: 2, name: "Ben", score: 90, class: "B" },
-  { id: 3, name: "Alan", score: 80, class: "C" },
+  { id: 3, name: "Cath", score: 80, class: "C" },
 ];
 const localStorageObj = localStorage.getItem("Students");
 if (!localStorageObj)
