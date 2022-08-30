@@ -95,12 +95,12 @@ The web app ui design are following below:
 
 ### Student List
 
-![My Image](studentpage.jpg)
+![My Image](public/studentpage.jpg)
 
 ### Student Add
 
-![My Image](studentadd.jpg)
+![My Image](public/studentadd.jpg)
 
 ### Student Filter
 
-![My Image](studentfilter.jpg)
+![My Image](public/studentfilter.jpg)
